@@ -7,4 +7,4 @@ This repository contains notes and coding exercises related to advanced programm
 
 ## Experiments
 
--[Chapter 1: Overview](Experiments/ch1.overview/README.md)
+- [Chapter 1: Overview](Experiments/ch1.overview/README.md)
