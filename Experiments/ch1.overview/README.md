@@ -14,3 +14,5 @@ Use strerror and perror to print the error message.
 Use getuid and getgid to get the user id and group id.
 ## 7.signal_catching
 Define a signal handler function to catch the signal and handle it.
+## 8.fp_signal_handling
+Define a signal handler to handle common floating point exception cases.
