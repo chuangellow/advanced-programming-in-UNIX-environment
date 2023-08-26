@@ -3,8 +3,8 @@ This repository contains notes and coding exercises related to advanced programm
 
 ## Notes
 
-- [Chapter 1: Overview](Notes/ch1.overview)
+- [Chapter 1: Unix System Overview](Notes/ch1.overview)
 
 ## Experiments
 
-- [Chapter 1: Overview](Experiments/ch1.overview)
+- [Chapter 1: Unix System Overview](Experiments/ch1.overview)
