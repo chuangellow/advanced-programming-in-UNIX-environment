@@ -13,8 +13,10 @@ This repository aims to provide an in-depth understanding of UNIX system program
 The notes in this repository are organized by chapter of the book. Each note provides a summary of the chapter in Traditional Chinese and includes code examples to illustrate the concepts.
 
 - [Chapter 1: Unix System Overview](Notes/ch1.overview)
+- [Chapter 3: File I/O](Notes/ch3.file_io)
 
 ## Experiments
 The experiments in this repository are designed to test your understanding of the concepts covered in the notes.
 
 - [Chapter 1: Unix System Overview](Experiments/ch1.overview)
+- [Chapter 3: File I/O](Experiments/ch3.file_io)
