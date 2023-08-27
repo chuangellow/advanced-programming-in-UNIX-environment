@@ -13,3 +13,11 @@ The experiments in this repository are designed to test your understanding of th
 
 - [Chapter 1: Unix System Overview](Experiments/ch1.overview)
 - [Chapter 3: File I/O](Experiments/ch3.file_io)
+
+## Experiment Environment
+All of the experiments are executed on the following hardware and software configuration:
+- CPU: Apple M1 Max
+- RAM: 32GB
+- OS: MacOS Ventura
+- C Compiler: GCC adhering to the C99 standard
+- Python version: 3.7
