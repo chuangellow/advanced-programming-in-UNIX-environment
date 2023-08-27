@@ -8,4 +8,4 @@ Get to know how to use creat and the limitation of creat.
 Get to know what is lseek and how to check one file's capablility of seeking.
 ## 4. I/O efficiency
 Experiments to know the relationship between BUFFERSIZE and read operation.
-![io_efficiency](figures/buffer_size%20measurement.png)
+![io_efficiency](4.io_efficiency/figures/buffer_size%20measurement.png)
