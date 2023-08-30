@@ -11,3 +11,5 @@ Experiments to know the relationship between BUFFERSIZE and the efficiency of re
 ![io_efficiency](4.io_efficiency/figures/buffer_size%20measurement.png)
 ## 5. atomic operations
 Experiment to show the race condition when multiple processes want to apppend to the file.
+## 6. dup and dup2
+Get to know how to use dup and dup2 to duplicate the file.
